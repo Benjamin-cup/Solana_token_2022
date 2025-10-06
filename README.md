@@ -5,11 +5,13 @@ The Solana Program Library (SPL) includes the Token-2022 program, an extension o
 
 ## 📞 **Stay Connected**
 
-Gmail: tom.kinddev@gmail.com
 
-Telegram: [@erikerik116](https://t.me/erikerik116)
 
-Discord: [@erikerik116](https://discord.com/channels/@me/304228787250528256)
+Gmail: benjamin.bigdev@gmail.com
+
+Telegram: [@SOLBenjaminCup](https://t.me/SOLBenjaminCup)
+
+Discord: [@.benjamincup](https://discord.com/channels/@me/1305610537790476382)
 
 Twitter: @erikerikerik116
 
