@@ -28,6 +28,7 @@ function formatIrysUrl(id: string) {
 	return `https://gateway.irys.xyz/${id}`
 }
 
+
 const getIrysArweave = async (secretKey: Uint8Array) => {
 	const irys = new Irys({
 		network: 'devnet',
@@ -39,6 +40,7 @@ const getIrysArweave = async (secretKey: Uint8Array) => {
 	})
 	return irys
 }
+
 
 export async function uploadOffChainMetadata(
 	inputs: UploadOffChainMetadataInputs,
